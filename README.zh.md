@@ -1,34 +1,26 @@
-<<<<<<< Updated upstream
-# Playbooks
+# Botlearn Playbooks & Skills（社区版）
 
-Human‑Agent learning best‑practice playbooks.
+如果你想在“人机协作”时代更快学习，这个库就是为你准备的。每个 playbook 都是一个可测试的学习系统，每天 20 分钟即可运行。
 
-## Structure
-Hook · Goal · Why It Works · 3‑Step Routine · Time‑Boxed Outcomes · Agent Loop · Human‑Agent Loop · Common Pitfalls · Skill Pack · Verification · Community Loop
-=======
-# Botlearn Playbooks & Skills (Community Edition)
+## 10 分钟上手
+- 选择一个 playbook
+- 执行一次 3 步流程
+- 保存输出，并判断是否继续
 
-If you’re trying to learn faster in the Human‑Agent era, this library is for you. Each playbook is a short, testable learning system you can run in 20 minutes a day.
+## Playbook 的构建原则
+1. **稳定需求优先**：聚焦不会消失的学习需求（语言、考试、职业成长、研究、知识系统）。
+2. **学习科学为骨架**：每个 playbook 都基于可靠的学习原理（如 ZPD、认知负荷、自我调节学习）。
+3. **人机分工**：Agent 负责结构与反馈，人在关键处决策与内化。
+4. **短周期执行**：面向日常执行，而不是长课程。
+5. **逐步验证**：playbook 会从 UNTESTED → TESTED → VERIFIED 逐步升级。
 
-## Get Started in 10 Minutes
-- Pick one playbook
-- Run the 3‑step routine once
-- Save the output and decide if it’s worth continuing
+## 内容结构
+- Playbooks（英文）：`botlearn-playbooks/playbook_en`
+- Playbooks（中文）：`botlearn-playbooks/playbook_zh`
+- Skills（英文）：`botlearn-skills/skills_en`（文件以 `.en.md` 结尾）
+- Skills（中文）：`botlearn-skills/skills_zh`（文件以 `.zh.md` 结尾）
 
-## How These Playbooks Are Built
-1. **Stable demand first**: We focus on needs that don’t disappear (language, exams, career growth, research, knowledge systems).
-2. **Learning science backbone**: Each playbook is grounded in a proven learning principle (e.g., ZPD, cognitive load, SRL).
-3. **Human‑Agent split**: Agents handle structure and feedback; humans make decisions and internalize.
-4. **Short‑cycle execution**: Designed for daily use, not long courses.
-5. **Verified over time**: Every playbook moves from UNTESTED → TESTED → VERIFIED as real people validate it.
-
-## Contents
-- Playbooks (EN): `botlearn-playbooks/playbook_en`
-- Playbooks (ZH): `botlearn-playbooks/playbook_zh`
-- Skills (EN): `botlearn-skills/skills_en` (files use `.en.md`)
-- Skills (ZH): `botlearn-skills/skills_zh` (files use `.zh.md`)
-
-## Current Playbooks (10 Topics)
+## 当前 Playbooks（10 个主题）
 1. [AI Skill Learning: From Zero to Real Output](botlearn-playbooks/playbook_en/playbook_ai_skill_learning.en.md)
 2. [Career Learning Loop: Grow While You Work](botlearn-playbooks/playbook_en/playbook_career_learning_loop.en.md)
 3. [I Can Read English. I Still Freeze in Meetings.](botlearn-playbooks/playbook_en/playbook_english_learning_professionals.en.md)
@@ -40,21 +32,21 @@ If you’re trying to learn faster in the Human‑Agent era, this library is for
 9. [Technical Interview Training: Practice Like It’s Real](botlearn-playbooks/playbook_en/playbook_technical_interview_training.en.md)
 10. [Writing for Professional Impact](botlearn-playbooks/playbook_en/playbook_writing_for_impact.en.md)
 
-## Skill Pack Status
-- **Verified share: 62%**
-- **Total skills: 104** (64 verified, 40 candidate)
+## Skill Pack 状态
+- **Verified 占比：62%**
+- **总技能数：104**（64 verified，40 candidate）
 
-## Leaderboard & Hot Skills
-We maintain a lightweight leaderboard-based view to surface learning‑relevant hot skills:
-- **Overall Top 20**: all-time installs across skills.sh
-- **Learning Top 20**: keyword-filtered subset (learning/writing/review/memory/etc.)
-- **Playbook‑Covered Rank**: playbook skills that appear on the leaderboard list
+## 榜单与热度技能
+我们维护一个轻量榜单视图，用于发现学习相关的热门技能：
+- **全站 Top 20**：skills.sh 全量安装排名
+- **学习 Top 20**：关键词筛选（学习/写作/评审/记忆等）
+- **Playbook 覆盖排名**：出现在榜单中的 playbook 技能
 
-These lists are used to pick Top 10 skills for detailed pages and to keep playbooks aligned with real‑world adoption.
+这些榜单用于选择 Top 10 技能生成单页，并保持 playbook 与真实热度一致。
 
-## Index
+## 索引
 
-### Playbooks (EN)
+### Playbooks（英文）
 - [AI Skill Learning](botlearn-playbooks/playbook_en/playbook_ai_skill_learning.en.md)
 - [Career Learning Loop](botlearn-playbooks/playbook_en/playbook_career_learning_loop.en.md)
 - [English Learning Professionals](botlearn-playbooks/playbook_en/playbook_english_learning_professionals.en.md)
@@ -66,7 +58,7 @@ These lists are used to pick Top 10 skills for detailed pages and to keep playbo
 - [Technical Interview Training](botlearn-playbooks/playbook_en/playbook_technical_interview_training.en.md)
 - [Writing For Impact](botlearn-playbooks/playbook_en/playbook_writing_for_impact.en.md)
 
-### Playbooks (ZH)
+### Playbooks（中文）
 - [AI Skill Learning](botlearn-playbooks/playbook_zh/playbook_ai_skill_learning.zh.md)
 - [Career Learning Loop](botlearn-playbooks/playbook_zh/playbook_career_learning_loop.zh.md)
 - [English Learning Professionals](botlearn-playbooks/playbook_zh/playbook_english_learning_professionals.zh.md)
@@ -78,22 +70,21 @@ These lists are used to pick Top 10 skills for detailed pages and to keep playbo
 - [Technical Interview Training](botlearn-playbooks/playbook_zh/playbook_technical_interview_training.zh.md)
 - [Writing For Impact](botlearn-playbooks/playbook_zh/playbook_writing_for_impact.zh.md)
 
-### Skills (EN)
+### Skills（英文）
 - [Leaderboard Report](botlearn-skills/skills_en/leaderboard_report.md)
 - [Learning Top10 List](botlearn-skills/skills_en/learning_top10_list.csv)
 - [Playbook Top10 List](botlearn-skills/skills_en/playbook_verified_top10_list.csv)
 - [Skill Pages](botlearn-skills/skills_en/)
 
-### Skills (ZH)
+### Skills（中文）
 - [Leaderboard Report](botlearn-skills/skills_zh/leaderboard_report.zh.md)
 - [Learning Top10 List](botlearn-skills/skills_zh/learning_top10_list.zh.csv)
 - [Playbook Top10 List](botlearn-skills/skills_zh/playbook_verified_top10_list.zh.csv)
 - [Skill Pages](botlearn-skills/skills_zh/)
 
 
-## Contribution (Start Small)
-If you improve a playbook, add one of these:
-- A clearer step or real example
-- A verified skill link
-- A short test result (what you tried, how long, what changed)
->>>>>>> Stashed changes
+## 贡献（从小处开始）
+如果你改进了 playbook，可以添加以下内容之一：
+- 更清晰的步骤或真实案例
+- 可验证的 skill 链接
+- 简短测试结果（做了什么、持续多久、带来什么变化）

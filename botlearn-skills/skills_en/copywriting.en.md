@@ -1,0 +1,35 @@
+# copywriting
+Write clearer, higher‑converting text for learning and professional use.
+
+- Status: verified
+- Included in Playbook: yes
+- Source: leaderboard
+- URL: https://skills.sh/coreyhaines31/marketingskills/copywriting
+- Heat (All‑Time Installs): 9542
+- Tags: scenario:writing, category:communication, tool:general
+- Playbook: [Writing for Professional Impact](/playbooks/playbook_en/writing-for-impact)
+
+## What It Does
+Refines drafts into clear, persuasive copy with stronger structure and CTA.
+
+## Who It’s For
+People who write for decisions, alignment, or persuasion.
+
+## How It Fits the Playbook
+Use it in the “Outline” step to tighten structure and in the “Finalize” step to sharpen tone and clarity.
+
+## Use Case
+You need to persuade your team to adopt a new learning tool in one short message.
+
+## How to Use
+1. Paste your rough draft or bullet points.
+2. State the audience and the decision you want.
+3. Ask for a tighter version with a clear call‑to‑action.
+4. Compare the output and keep the strongest phrases.
+
+## Example
+Input: “We should use spaced repetition because it helps memory.”
+Output: “Adopting spaced repetition will cut review time and improve recall—let’s pilot it.”
+
+## Verification
+The final copy should be shorter, clearer, and state a specific decision or action.

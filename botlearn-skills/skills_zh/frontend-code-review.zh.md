@@ -1,0 +1,34 @@
+# frontend code review
+Review UI code for structure, readability, and common pitfalls.
+
+- 状态: verified
+- 是否纳入 Playbook: yes
+- 来源: inventory
+- 链接: https://skills.sh/langgenius/dify/frontend-code-review
+- 热度（全量安装）: 1359
+- 标签: scenario:code-review, category:review, tool:frontend
+- Playbook: [Career Learning Loop: Grow While You Work](/playbooks/playbook_en/career-learning-loop)
+
+## 功能说明
+Checks UI code for consistency, layout issues, and maintainability.
+
+## 适用人群
+Frontend developers who want consistent UI code.
+
+## 与 Playbook 的结合方式
+Fits into the playbook routine as a supporting skill for the learning flow.
+
+## 使用场景
+You need to ensure a UI component follows team conventions.
+
+## 使用步骤
+1. Provide the component or layout code.
+2. Ask for UI best practices and maintainability checks.
+3. Fix issues and re‑review quickly.
+
+## 示例
+Input: React component for dashboard cards.
+Output: Notes on structure and style issues.
+
+## 验证方式
+You should get a small checklist of UI improvements.

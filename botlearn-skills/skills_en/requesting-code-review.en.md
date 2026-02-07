@@ -1,0 +1,34 @@
+# requesting code review
+Ask for code reviews that get useful, actionable feedback.
+
+- Status: verified
+- Included in Playbook: yes
+- Source: leaderboard
+- URL: https://skills.sh/obra/superpowers/requesting-code-review
+- Heat (All‑Time Installs): 4583
+- Tags: scenario:code-review, category:workflow, tool:general
+- Playbook: [Career Learning Loop: Grow While You Work](/playbooks/playbook_en/career-learning-loop)
+
+## What It Does
+Helps frame context and questions so reviewers respond faster and better.
+
+## Who It’s For
+Engineers who want better feedback on their work.
+
+## How It Fits the Playbook
+Use it in the “Learn” step to turn a real task into focused feedback and growth.
+
+## Use Case
+You want a review that focuses on architecture, not just style.
+
+## How to Use
+1. Summarize what changed and what you are unsure about.
+2. Ask reviewers to focus on specific risks or decisions.
+3. Incorporate feedback and note learning points.
+
+## Example
+Input: PR for refactoring auth middleware.
+Output: Review prompts focused on security and edge cases.
+
+## Verification
+You should receive feedback that addresses the risks you listed.
