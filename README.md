@@ -1,11 +1,4 @@
-<<<<<<< Updated upstream
-# Playbooks
 
-Human‑Agent learning best‑practice playbooks.
-
-## Structure
-Hook · Goal · Why It Works · 3‑Step Routine · Time‑Boxed Outcomes · Agent Loop · Human‑Agent Loop · Common Pitfalls · Skill Pack · Verification · Community Loop
-=======
 # Botlearn Playbooks & Skills (Community Edition)
 
 If you’re trying to learn faster in the Human‑Agent era, this library is for you. Each playbook is a short, testable learning system you can run in 20 minutes a day.
