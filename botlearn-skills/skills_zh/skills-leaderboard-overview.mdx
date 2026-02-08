@@ -1,0 +1,110 @@
+import { SkillLeaderboard } from '@/components/SkillLeaderboard'
+
+export const overallTop20Skills = [
+  { rank: 1, skill: 'find-skills', repo: 'vercel-labs/skills', installs: 143635, url: 'https://skills.sh/vercel-labs/skills/find-skills' },
+  { rank: 2, skill: 'vercel-react-best-practices', repo: 'vercel-labs/agent-skills', installs: 104007, url: 'https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices' },
+  { rank: 3, skill: 'web-design-guidelines', repo: 'vercel-labs/agent-skills', installs: 78645, url: 'https://skills.sh/vercel-labs/agent-skills/web-design-guidelines' },
+  { rank: 4, skill: 'remotion-best-practices', repo: 'remotion-dev/skills', installs: 72849, url: 'https://skills.sh/remotion-dev/skills/remotion-best-practices' },
+  { rank: 5, skill: 'frontend-design', repo: 'anthropics/skills', installs: 48128, url: 'https://skills.sh/anthropics/skills/frontend-design' },
+  { rank: 6, skill: 'vercel-composition-patterns', repo: 'vercel-labs/agent-skills', installs: 26942, url: 'https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns' },
+  { rank: 7, skill: 'agent-browser', repo: 'vercel-labs/agent-browser', installs: 25092, url: 'https://skills.sh/vercel-labs/agent-browser/agent-browser' },
+  { rank: 8, skill: 'skill-creator', repo: 'anthropics/skills', installs: 23778, url: 'https://skills.sh/anthropics/skills/skill-creator' },
+  { rank: 9, skill: 'browser-use', repo: 'browser-use/browser-use', installs: 20845, url: 'https://skills.sh/browser-use/browser-use/browser-use' },
+  { rank: 10, skill: 'vercel-react-native-skills', repo: 'vercel-labs/agent-skills', installs: 19698, url: 'https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills' },
+  { rank: 11, skill: 'ui-ux-pro-max', repo: 'nextlevelbuilder/ui-ux-pro-max-skill', installs: 16419, url: 'https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max' },
+  { rank: 12, skill: 'seo-audit', repo: 'coreyhaines31/marketingskills', installs: 13682, url: 'https://skills.sh/coreyhaines31/marketingskills/seo-audit' },
+  { rank: 13, skill: 'audit-website', repo: 'squirrelscan/skills', installs: 13281, url: 'https://skills.sh/squirrelscan/skills/audit-website' },
+  { rank: 14, skill: 'supabase-postgres-best-practices', repo: 'supabase/agent-skills', installs: 12448, url: 'https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices' },
+  { rank: 15, skill: 'brainstorming', repo: 'obra/superpowers', installs: 11530, url: 'https://skills.sh/obra/superpowers/brainstorming' },
+  { rank: 16, skill: 'pdf', repo: 'anthropics/skills', installs: 10109, url: 'https://skills.sh/anthropics/skills/pdf' },
+  { rank: 17, skill: 'copywriting', repo: 'coreyhaines31/marketingskills', installs: 9542, url: 'https://skills.sh/coreyhaines31/marketingskills/copywriting' },
+  { rank: 18, skill: 'pptx', repo: 'anthropics/skills', installs: 8405, url: 'https://skills.sh/anthropics/skills/pptx' },
+  { rank: 19, skill: 'better-auth-best-practices', repo: 'better-auth/skills', installs: 8332, url: 'https://skills.sh/better-auth/skills/better-auth-best-practices' },
+  { rank: 20, skill: 'building-native-ui', repo: 'expo/skills', installs: 7944, url: 'https://skills.sh/expo/skills/building-native-ui' },
+]
+
+export const learningTop20Skills = [
+  { rank: 1, skill: 'vercel-react-best-practices', repo: 'vercel-labs/agent-skills', installs: 104007, overallRank: 2, url: 'https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices' },
+  { rank: 2, skill: 'remotion-best-practices', repo: 'remotion-dev/skills', installs: 72849, overallRank: 4, url: 'https://skills.sh/remotion-dev/skills/remotion-best-practices' },
+  { rank: 3, skill: 'supabase-postgres-best-practices', repo: 'supabase/agent-skills', installs: 12448, overallRank: 14, url: 'https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices' },
+  { rank: 4, skill: 'copywriting', repo: 'coreyhaines31/marketingskills', installs: 9542, overallRank: 17, url: 'https://skills.sh/coreyhaines31/marketingskills/copywriting' },
+  { rank: 5, skill: 'better-auth-best-practices', repo: 'better-auth/skills', installs: 8332, overallRank: 19, url: 'https://skills.sh/better-auth/skills/better-auth-best-practices' },
+  { rank: 6, skill: 'next-best-practices', repo: 'vercel-labs/next-skills', installs: 7237, overallRank: 24, url: 'https://skills.sh/vercel-labs/next-skills/next-best-practices' },
+  { rank: 7, skill: 'writing-plans', repo: 'obra/superpowers', installs: 5585, overallRank: 31, url: 'https://skills.sh/obra/superpowers/writing-plans' },
+  { rank: 8, skill: 'vue-best-practices', repo: 'hyf0/vue-skills', installs: 5081, overallRank: 37, url: 'https://skills.sh/hyf0/vue-skills/vue-best-practices' },
+  { rank: 9, skill: 'requesting-code-review', repo: 'obra/superpowers', installs: 4583, overallRank: 43, url: 'https://skills.sh/obra/superpowers/requesting-code-review' },
+  { rank: 10, skill: 'remembering-conversations', repo: 'obra/episodic-memory', installs: 4475, overallRank: 49, url: 'https://skills.sh/obra/episodic-memory/remembering-conversations' },
+  { rank: 11, skill: 'react-native-best-practices', repo: 'callstackincubator/agent-skills', installs: 4284, overallRank: 56, url: 'https://skills.sh/callstackincubator/agent-skills/react-native-best-practices' },
+  { rank: 12, skill: 'writing-skills', repo: 'obra/superpowers', installs: 4113, overallRank: 65, url: 'https://skills.sh/obra/superpowers/writing-skills' },
+  { rank: 13, skill: 'receiving-code-review', repo: 'obra/superpowers', installs: 3995, overallRank: 71, url: 'https://skills.sh/obra/superpowers/receiving-code-review' },
+  { rank: 14, skill: 'vue-best-practices', repo: 'antfu/skills', installs: 2991, overallRank: 95, url: 'https://skills.sh/antfu/skills/vue-best-practices' },
+  { rank: 15, skill: 'code-review-excellence', repo: 'wshobson/agents', installs: 2323, overallRank: 121, url: 'https://skills.sh/wshobson/agents/code-review-excellence' },
+  { rank: 16, skill: 'nestjs-best-practices', repo: 'kadajett/agent-nestjs-skills', installs: 2244, overallRank: 124, url: 'https://skills.sh/kadajett/agent-nestjs-skills/nestjs-best-practices' },
+  { rank: 17, skill: 'email-best-practices', repo: 'resend/email-best-practices', installs: 1683, overallRank: 152, url: 'https://skills.sh/resend/email-best-practices/email-best-practices' },
+  { rank: 18, skill: 'code-reviewer', repo: 'google-gemini/gemini-cli', installs: 1497, overallRank: 165, url: 'https://skills.sh/google-gemini/gemini-cli/code-reviewer' },
+  { rank: 19, skill: 'vue-best-practices', repo: 'vuejs-ai/skills', installs: 1450, overallRank: 172, url: 'https://skills.sh/vuejs-ai/skills/vue-best-practices' },
+  { rank: 20, skill: 'vue-router-best-practices', repo: 'vuejs-ai/skills', installs: 1284, overallRank: 194, url: 'https://skills.sh/vuejs-ai/skills/vue-router-best-practices' },
+]
+
+export const playbookSkills = [
+  { rank: 1, skill: 'copywriting', repo: 'coreyhaines31/marketingskills', installs: 9542, overallRank: 17, playbookName: 'Writing for Professional Impact', url: 'https://skills.sh/coreyhaines31/marketingskills/copywriting' },
+  { rank: 2, skill: 'writing-plans', repo: 'obra/superpowers', installs: 5585, overallRank: 31, playbookName: 'Writing for Professional Impact', url: 'https://skills.sh/obra/superpowers/writing-plans' },
+  { rank: 3, skill: 'requesting-code-review', repo: 'obra/superpowers', installs: 4583, overallRank: 43, playbookName: 'Career Learning Loop: Grow While You Work', url: 'https://skills.sh/obra/superpowers/requesting-code-review' },
+  { rank: 4, skill: 'doc-coauthoring', repo: 'anthropics/skills', installs: 4580, overallRank: 44, playbookName: 'Writing for Professional Impact', url: 'https://skills.sh/anthropics/skills/doc-coauthoring' },
+  { rank: 5, skill: 'remembering-conversations', repo: 'obra/episodic-memory', installs: 4475, overallRank: 49, playbookName: 'Personal Knowledge System: Stop Losing What You Learn', url: 'https://skills.sh/obra/episodic-memory/remembering-conversations' },
+  { rank: 6, skill: 'writing-skills', repo: 'obra/superpowers', installs: 4113, overallRank: 65, playbookName: 'Writing for Professional Impact', url: 'https://skills.sh/obra/superpowers/writing-skills' },
+  { rank: 7, skill: 'receiving-code-review', repo: 'obra/superpowers', installs: 3995, overallRank: 71, playbookName: 'Career Learning Loop: Grow While You Work', url: 'https://skills.sh/obra/superpowers/receiving-code-review' },
+  { rank: 8, skill: 'code-review-excellence', repo: 'wshobson/agents', installs: 2323, overallRank: 121, playbookName: 'Career Learning Loop: Grow While You Work', url: 'https://skills.sh/wshobson/agents/code-review-excellence' },
+  { rank: 9, skill: 'email-best-practices', repo: 'resend/email-best-practices', installs: 1683, overallRank: 152, playbookName: 'Writing for Professional Impact', url: 'https://skills.sh/resend/email-best-practices/email-best-practices' },
+  { rank: 10, skill: 'code-reviewer', repo: 'google-gemini/gemini-cli', installs: 1497, overallRank: 165, playbookName: 'Career Learning Loop: Grow While You Work', url: 'https://skills.sh/google-gemini/gemini-cli/code-reviewer' },
+  { rank: 11, skill: 'frontend-code-review', repo: 'langgenius/dify', installs: 1359, overallRank: 185, playbookName: 'Career Learning Loop: Grow While You Work', url: 'https://skills.sh/langgenius/dify/frontend-code-review' },
+  { rank: 12, skill: 'obsidian-markdown', repo: 'kepano/obsidian-skills', installs: 1244, overallRank: 203, playbookName: 'Personal Knowledge System: Stop Losing What You Learn', url: 'https://skills.sh/kepano/obsidian-skills/obsidian-markdown' },
+  { rank: 13, skill: 'writing-clearly-and-concisely', repo: 'softaworks/agent-toolkit', installs: 979, overallRank: 309, playbookName: 'Writing for Professional Impact', url: 'https://skills.sh/softaworks/agent-toolkit/writing-clearly-and-concisely' },
+  { rank: 14, skill: 'obsidian-bases', repo: 'kepano/obsidian-skills', installs: 867, overallRank: 345, playbookName: 'Personal Knowledge System: Stop Losing What You Learn', url: 'https://skills.sh/kepano/obsidian-skills/obsidian-bases' },
+  { rank: 15, skill: 'json-canvas', repo: 'kepano/obsidian-skills', installs: 815, overallRank: 358, playbookName: 'Personal Knowledge System: Stop Losing What You Learn', url: 'https://skills.sh/kepano/obsidian-skills/json-canvas' },
+  { rank: 16, skill: 'continuous-learning-v2', repo: 'affaan-m/everything-claude-code', installs: 377, overallRank: 563, playbookName: 'Career Learning Loop: Grow While You Work', url: 'https://skills.sh/affaan-m/everything-claude-code/continuous-learning-v2' },
+  { rank: 17, skill: 'excalidraw-diagram', repo: 'axtonliu/axton-obsidian-visual-skills', installs: 343, overallRank: 597, playbookName: 'Personal Knowledge System: Stop Losing What You Learn', url: 'https://skills.sh/axtonliu/axton-obsidian-visual-skills/excalidraw-diagram' },
+]
+
+# Skills 榜单概览：执行力优先于内容
+
+Skills 是 **Human‑Agent Loop** 的执行层。本榜单追踪真实安装数据，确保 Botlearn 的技能库始终贴近实际使用与产出。
+
+## 你现在可以做什么
+- 选择一个热门 skill 并安装到你的 Agent
+- 参考学习类榜单，快速组装下一次 playbook session
+- 贡献一个学习相关的 skill 回馈社区
+
+## 为什么需要这个榜单
+我们追踪真实安装量，避免"内容膨胀"。热门技能代表 Agent 真正在用什么，有助于让 playbook 与 skill pack 持续贴近现实需求。
+
+## Overall Top 20（无筛选）
+
+<SkillLeaderboard 
+  title="" 
+  skills={overallTop20Skills}
+/>
+
+## Learning Top 20（筛选）
+
+<SkillLeaderboard 
+  title="" 
+  skills={learningTop20Skills}
+/>
+
+## Playbook 覆盖技能排名（Overall）
+
+<SkillLeaderboard 
+  title="" 
+  skills={playbookSkills}
+/>
+
+## Metrics & Definitions
+- **Installs（All‑Time）**：skills.sh 首页榜单的累计安装量。
+- **Overall Rank**：按 Installs 排序后在榜单中的位置（仅代表榜单数据，不代表全量目录）。
+
+## Methodology
+1. 抓取 skills.sh 首页并解析 `initialSkills` 数据。
+2. 按 Installs（All‑Time）排序得到 Overall Top 20。
+3. 用学习关键词筛选得到 Learning Top 20。
+4. 将 playbook skills 与榜单匹配并计算其 Overall Rank。
