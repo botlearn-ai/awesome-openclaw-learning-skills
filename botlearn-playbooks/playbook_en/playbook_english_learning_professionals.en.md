@@ -1,4 +1,4 @@
-# I Can Read English. I Still Freeze in Meetings.
+# Professional English Speaking: From Reading to Speaking
 **The 20‑minute daily fix for professionals who need real workplace English.**
 
 ---

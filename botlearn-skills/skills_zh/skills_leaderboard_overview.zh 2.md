@@ -1,21 +1,16 @@
-# Leaderboard Heat Summary (All-Time Installs)
+# Skills 榜单概览：执行力优先于内容
 
-## Metrics & Definitions
-- **Installs (All-Time)**: total installs shown on skills.sh leaderboard (all‑time). Source is the skills.sh homepage leaderboard data.
-- **Overall Rank**: ranking position when sorting the leaderboard list by Installs (All‑Time) descending. This rank reflects the leaderboard list, not the full site catalog.
+Skills 是 **Human‑Agent Loop** 的执行层。本榜单追踪真实安装数据，确保 Botlearn 的技能库始终贴近实际使用与产出。
 
-## Methodology
-1. Fetch the skills.sh homepage and parse the embedded `initialSkills` leaderboard data.
-2. Sort all entries by Installs (All‑Time) to produce Overall Top 20.
-3. Apply a learning‑keyword filter to produce Learning Top 20.
-4. Match playbook skills against the leaderboard list and compute their Overall Rank.
+## 你现在可以做什么
+- 选择一个热门 skill 并安装到你的 Agent
+- 参考学习类榜单，快速组装下一次 playbook session
+- 贡献一个学习相关的 skill 回馈社区
 
-## How to Use
-- Use **Overall Top 20** to understand global popularity.
-- Use **Learning Top 20** for learning‑relevant hot skills.
-- Use **Playbook Matched Skills Rank** to see which playbook skills overlap with leaderboard heat.
+## 为什么需要这个榜单
+我们追踪真实安装量，避免“内容膨胀”。热门技能代表 Agent 真正在用什么，有助于让 playbook 与 skill pack 持续贴近现实需求。
 
-## Overall Top 20 (No Filter)
+## Overall Top 20（无筛选）
 | # | Skill | Repo | Installs | URL |
 | - | - | - | - | - |
 | 1 | find-skills | vercel-labs/skills | 143635 | https://skills.sh/vercel-labs/skills/find-skills |
@@ -39,7 +34,7 @@
 | 19 | better-auth-best-practices | better-auth/skills | 8332 | https://skills.sh/better-auth/skills/better-auth-best-practices |
 | 20 | building-native-ui | expo/skills | 7944 | https://skills.sh/expo/skills/building-native-ui |
 
-## Learning Top 20 (Filtered)
+## Learning Top 20（筛选）
 | # | Skill | Repo | Installs | Overall Rank | URL |
 | - | - | - | - | - | - |
 | 1 | vercel-react-best-practices | vercel-labs/agent-skills | 104007 | 2 | https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices |
@@ -63,7 +58,7 @@
 | 19 | vue-best-practices | vuejs-ai/skills | 1450 | 172 | https://skills.sh/vuejs-ai/skills/vue-best-practices |
 | 20 | vue-router-best-practices | vuejs-ai/skills | 1284 | 194 | https://skills.sh/vuejs-ai/skills/vue-router-best-practices |
 
-## Playbook-Covered Skills Rank (Overall)
+## Playbook 覆盖技能排名（Overall）
 | # | Skill | Playbook Name | Installs | Overall Rank | URL |
 | - | - | - | - | - | - |
 | 1 | copywriting | Writing for Professional Impact | 9542 | 17 | https://skills.sh/coreyhaines31/marketingskills/copywriting |
@@ -83,3 +78,13 @@
 | 15 | json-canvas | Personal Knowledge System: Stop Losing What You Learn | 815 | 358 | https://skills.sh/kepano/obsidian-skills/json-canvas |
 | 16 | continuous-learning-v2 | Career Learning Loop: Grow While You Work | 377 | 563 | https://skills.sh/affaan-m/everything-claude-code/continuous-learning-v2 |
 | 17 | excalidraw-diagram | Personal Knowledge System: Stop Losing What You Learn | 343 | 597 | https://skills.sh/axtonliu/axton-obsidian-visual-skills/excalidraw-diagram |
+
+## Metrics & Definitions
+- **Installs（All‑Time）**：skills.sh 首页榜单的累计安装量。
+- **Overall Rank**：按 Installs 排序后在榜单中的位置（仅代表榜单数据，不代表全量目录）。
+
+## Methodology
+1. 抓取 skills.sh 首页并解析 `initialSkills` 数据。
+2. 按 Installs（All‑Time）排序得到 Overall Top 20。
+3. 用学习关键词筛选得到 Learning Top 20。
+4. 将 playbook skills 与榜单匹配并计算其 Overall Rank。
