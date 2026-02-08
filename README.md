@@ -1,102 +1,71 @@
-<<<<<<< Updated upstream
+# BotLearn Playbooks & Skills (Community Edition)
 
-=======
->>>>>>> Stashed changes
-# Botlearn Playbooks & Skills (Community Edition)
+**Agents learn. Humans decide.** BotLearn is a Human‑Agent learning system: 20‑minute playbooks for people + executable skill packs for agents. The goal is shipped outcomes, not more notes.
 
-**Agents learn. Humans earn.** A product‑grade learning paradigm: agents absorb and distill 90% of the work so humans focus on the final 10% of insight and decisions.
+- Website: [botlearn.ai](https://botlearn.ai/)
 
-Learn more at [botlearn.ai](https://botlearn.ai/).
+## Start here (10 minutes)
+1. Pick one playbook.
+2. Run the 3‑step routine once.
+3. Save the output and decide if it’s worth continuing.
 
-Botlearn is a learning OS for the Human‑Agent era: concise playbooks for people and downloadable skill packs for agents. Each playbook is designed to run in ~20 minutes and produce tangible output.
+## How playbooks are built (the 10/90 logic)
+1. **Market‑proven demand**: we study what produces real learning outcomes.
+2. **Learning‑science backbone**: ZPD, cognitive load, SRL, and other foundational models.
+3. **Human‑Agent split**: humans do decisions; agents do execution support.
+4. **Skill integration**: skill packs make playbooks runnable, not just readable.
 
-## Get Started in 10 Minutes
-- Pick one playbook
-- Run the 3‑step routine once
-- Save the output and decide whether to continue
+## Quick navigation (docs + source)
+| Topic | English | 中文 | Source |
+| --- | --- | --- | --- |
+| Playbooks overview | [Open](https://botlearn.ai/en/docs/playbooks/playbooks-overview) | [打开](https://botlearn.ai/zh/docs/playbooks/playbooks-overview) | `botlearn-playbooks/` |
+| Skills leaderboard | [Open](https://botlearn.ai/en/docs/skills/skills-leaderboard-overview) | [打开](https://botlearn.ai/zh/docs/skills/skills-leaderboard-overview) | `botlearn-skills/` |
 
-## How Playbooks Are Built (The 10/90 Logic)
-1. **Market‑proven demand**: We study leading edtech companies (e.g., Duolingo, Coursera) and the learning principles behind their outcomes.
-2. **Learning‑science backbone**: Each playbook is grounded in authoritative learning science (e.g., ZPD, cognitive load, SRL).
-3. **Human‑Agent split**: We assign what humans should decide and what agents should execute to maximize efficiency.
-4. **Skill integration**: We integrate high‑signal learning skills so playbooks stay practical and one‑click downloadable.
+## Current playbooks (10)
+- **01** [AI Skill Learning: From Zero to Real Output](https://botlearn.ai/en/docs/playbooks/playbook-ai-skill-learning) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-ai-skill-learning)
+- **02** [Career Learning Loop: Grow While You Work](https://botlearn.ai/en/docs/playbooks/playbook-career-learning-loop) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-career-learning-loop)
+- **03** [Professional English Speaking: From Reading to Speaking](https://botlearn.ai/en/docs/playbooks/playbook-english-learning-professionals) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-english-learning-professionals)
+- **04** [Exam Prep Fast Track: Beat the Countdown](https://botlearn.ai/en/docs/playbooks/playbook-exam-prep-fast-track) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-exam-prep-fast-track)
+- **05** [Learning Science‑Driven Study System](https://botlearn.ai/en/docs/playbooks/playbook-learning-science-system) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-learning-science-system)
+- **06** [Micro‑Learning Daily Digest: Learn in 5 Minutes](https://botlearn.ai/en/docs/playbooks/playbook-micro-learning-daily-digest) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-micro-learning-daily-digest)
+- **07** [Personal Knowledge System: Stop Losing What You Learn](https://botlearn.ai/en/docs/playbooks/playbook-personal-knowledge-system) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-personal-knowledge-system)
+- **08** [Research Paper Reading & Synthesis](https://botlearn.ai/en/docs/playbooks/playbook-research-paper-reading) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-research-paper-reading)
+- **09** [Technical Interview Training: Practice Like It’s Real](https://botlearn.ai/en/docs/playbooks/playbook-technical-interview-training) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-technical-interview-training)
+- **10** [Writing for Professional Impact](https://botlearn.ai/en/docs/playbooks/playbook-writing-for-impact) / [中文](https://botlearn.ai/zh/docs/playbooks/playbook-writing-for-impact)
 
-## Contents
-- Playbooks (EN): `botlearn-playbooks/playbook_en`
-- Skills (EN): `botlearn-skills/skills_en` (files use `.en.md`)
+## Skill packs & coverage
+Each playbook includes a **Skill Pack** (the agent side of the workflow). Current coverage: **62% verified** across **104 skills** (64 verified, 40 candidate).
 
-## Current Playbooks (10 Topics)
-We currently ship 10 playbooks and will expand based on user demand and high‑frequency learning scenarios.
-1. AI Skill Learning: From Zero to Real Output
-2. Career Learning Loop: Grow While You Work
-3. Professional English Speaking: From Reading to Speaking
-4. Exam Prep Fast Track: Beat the Countdown
-5. Learning Science‑Driven Study System
-6. Micro‑Learning Daily Digest: Learn in 5 Minutes
-7. Personal Knowledge System: Stop Losing What You Learn
-8. Research Paper Reading & Synthesis
-9. Technical Interview Training: Practice Like It’s Real
-10. Writing for Professional Impact
+## Skill pages (library)
+- [Better Auth Best Practices](https://botlearn.ai/en/docs/skills/better-auth-best-practices) / [中文](https://botlearn.ai/zh/docs/skills/better-auth-best-practices)
+- [Code Reviewer](https://botlearn.ai/en/docs/skills/code-reviewer) / [中文](https://botlearn.ai/zh/docs/skills/code-reviewer)
+- [Continuous Learning V2](https://botlearn.ai/en/docs/skills/continuous-learning-v2) / [中文](https://botlearn.ai/zh/docs/skills/continuous-learning-v2)
+- [Copywriting](https://botlearn.ai/en/docs/skills/copywriting) / [中文](https://botlearn.ai/zh/docs/skills/copywriting)
+- [Doc Coauthoring](https://botlearn.ai/en/docs/skills/doc-coauthoring) / [中文](https://botlearn.ai/zh/docs/skills/doc-coauthoring)
+- [Excalidraw Diagram](https://botlearn.ai/en/docs/skills/excalidraw-diagram) / [中文](https://botlearn.ai/zh/docs/skills/excalidraw-diagram)
+- [Frontend Code Review](https://botlearn.ai/en/docs/skills/frontend-code-review) / [中文](https://botlearn.ai/zh/docs/skills/frontend-code-review)
+- [JSON Canvas](https://botlearn.ai/en/docs/skills/json-canvas) / [中文](https://botlearn.ai/zh/docs/skills/json-canvas)
+- [Learning Medusa](https://botlearn.ai/en/docs/skills/learning-medusa) / [中文](https://botlearn.ai/zh/docs/skills/learning-medusa)
+- [Next Best Practices](https://botlearn.ai/en/docs/skills/next-best-practices) / [中文](https://botlearn.ai/zh/docs/skills/next-best-practices)
+- [Obsidian Bases](https://botlearn.ai/en/docs/skills/obsidian-bases) / [中文](https://botlearn.ai/zh/docs/skills/obsidian-bases)
+- [Obsidian Markdown](https://botlearn.ai/en/docs/skills/obsidian-markdown) / [中文](https://botlearn.ai/zh/docs/skills/obsidian-markdown)
+- [Remembering Conversations](https://botlearn.ai/en/docs/skills/remembering-conversations) / [中文](https://botlearn.ai/zh/docs/skills/remembering-conversations)
+- [Remotion Best Practices](https://botlearn.ai/en/docs/skills/remotion-best-practices) / [中文](https://botlearn.ai/zh/docs/skills/remotion-best-practices)
+- [Requesting Code Review](https://botlearn.ai/en/docs/skills/requesting-code-review) / [中文](https://botlearn.ai/zh/docs/skills/requesting-code-review)
+- [Skills Leaderboard Overview](https://botlearn.ai/en/docs/skills/skills-leaderboard-overview) / [中文](https://botlearn.ai/zh/docs/skills/skills-leaderboard-overview)
+- [Supabase Postgres Best Practices](https://botlearn.ai/en/docs/skills/supabase-postgres-best-practices) / [中文](https://botlearn.ai/zh/docs/skills/supabase-postgres-best-practices)
+- [Vercel React Best Practices](https://botlearn.ai/en/docs/skills/vercel-react-best-practices) / [中文](https://botlearn.ai/zh/docs/skills/vercel-react-best-practices)
+- [Vue Best Practices](https://botlearn.ai/en/docs/skills/vue-best-practices) / [中文](https://botlearn.ai/zh/docs/skills/vue-best-practices)
+- [Writing Clearly and Concisely](https://botlearn.ai/en/docs/skills/writing-clearly-and-concisely) / [中文](https://botlearn.ai/zh/docs/skills/writing-clearly-and-concisely)
+- [Writing Plans](https://botlearn.ai/en/docs/skills/writing-plans) / [中文](https://botlearn.ai/zh/docs/skills/writing-plans)
 
-## Skill Pack Status
-These are the skills covered by the 10 playbooks. This coverage reflects how much real‑world capability the playbook set currently delivers.
-- **Verified share: 62%**
-- **Total skills: 104** (64 verified, 40 candidate)
+## Repo layout
+- **Playbooks**: `botlearn-playbooks/playbook_en/` and `botlearn-playbooks/playbook_zh/`
+- **Skills**: `botlearn-skills/skills_en/` and `botlearn-skills/skills_zh/`
 
-## Leaderboard & Hot Skills
-We maintain a lightweight leaderboard-based view to surface learning‑relevant hot skills:
-- **Overall Top 20**: all-time installs across skills.sh
-- **Learning Top 20**: keyword-filtered subset (learning/writing/review/memory/etc.)
-- **Playbook‑Covered Rank**: playbook skills that appear on the leaderboard list
+## Contribution (start small)
+- **Test a playbook** and share what worked, what didn’t, and the output you shipped.
+- **Submit learning‑relevant skills** (links + tags + which playbook it supports).
+- **Improve clarity**: rewrite sections, tighten steps, add better examples.
 
-These lists are used to pick Top 10 skills for detailed pages and to keep playbooks aligned with real‑world adoption.
-
-## Index
-
-Quick Links: [Playbooks Overview](botlearn-playbooks/playbook_en/playbooks_overview.en.md) | [Skills Leaderboard Overview](botlearn-skills/skills_en/skills_leaderboard_overview.md) | [Learning Top10 List](botlearn-skills/skills_en/learning_top10_list.csv)
-
-
-### Playbooks (EN)
-- [Playbooks Overview](botlearn-playbooks/playbook_en/playbooks_overview.en.md)
-- [AI Skill Learning](botlearn-playbooks/playbook_en/playbook_ai_skill_learning.en.md)
-- [Career Learning Loop](botlearn-playbooks/playbook_en/playbook_career_learning_loop.en.md)
-- [English Learning Professionals](botlearn-playbooks/playbook_en/playbook_english_learning_professionals.en.md)
-- [Exam Prep Fast Track](botlearn-playbooks/playbook_en/playbook_exam_prep_fast_track.en.md)
-- [Learning Science System](botlearn-playbooks/playbook_en/playbook_learning_science_system.en.md)
-- [Micro Learning Daily Digest](botlearn-playbooks/playbook_en/playbook_micro_learning_daily_digest.en.md)
-- [Personal Knowledge System](botlearn-playbooks/playbook_en/playbook_personal_knowledge_system.en.md)
-- [Research Paper Reading](botlearn-playbooks/playbook_en/playbook_research_paper_reading.en.md)
-- [Technical Interview Training](botlearn-playbooks/playbook_en/playbook_technical_interview_training.en.md)
-- [Writing For Impact](botlearn-playbooks/playbook_en/playbook_writing_for_impact.en.md)
-
-### Skills (EN)
-- [Skills Leaderboard Overview](botlearn-skills/skills_en/skills_leaderboard_overview.md)
-- [Learning Top10 List](botlearn-skills/skills_en/learning_top10_list.csv)
-- [Playbook Top10 List](botlearn-skills/skills_en/playbook_verified_top10_list.csv)
-- [Better Auth Best Practices](botlearn-skills/skills_en/better-auth-best-practices.en.md)
-- [Code Reviewer](botlearn-skills/skills_en/code-reviewer.en.md)
-- [Continuous Learning V2](botlearn-skills/skills_en/continuous-learning-v2.en.md)
-- [Copywriting](botlearn-skills/skills_en/copywriting.en.md)
-- [Doc Coauthoring](botlearn-skills/skills_en/doc-coauthoring.en.md)
-- [Excalidraw Diagram](botlearn-skills/skills_en/excalidraw-diagram.en.md)
-- [Frontend Code Review](botlearn-skills/skills_en/frontend-code-review.en.md)
-- [JSON Canvas](botlearn-skills/skills_en/json-canvas.en.md)
-- [Learning Medusa](botlearn-skills/skills_en/learning-medusa.en.md)
-- [Next Best Practices](botlearn-skills/skills_en/next-best-practices.en.md)
-- [Obsidian Bases](botlearn-skills/skills_en/obsidian-bases.en.md)
-- [Obsidian Markdown](botlearn-skills/skills_en/obsidian-markdown.en.md)
-- [Remembering Conversations](botlearn-skills/skills_en/remembering-conversations.en.md)
-- [Remotion Best Practices](botlearn-skills/skills_en/remotion-best-practices.en.md)
-- [Requesting Code Review](botlearn-skills/skills_en/requesting-code-review.en.md)
-- [Supabase Postgres Best Practices](botlearn-skills/skills_en/supabase-postgres-best-practices.en.md)
-- [Vercel React Best Practices](botlearn-skills/skills_en/vercel-react-best-practices.en.md)
-- [Vue Best Practices](botlearn-skills/skills_en/vue-best-practices.en.md)
-- [Writing Clearly And Concisely](botlearn-skills/skills_en/writing-clearly-and-concisely.en.md)
-- [Writing Plans](botlearn-skills/skills_en/writing-plans.en.md)
-- [Skill Pages](botlearn-skills/skills_en/)
-
-## Contribution (Start Small)
-You can contribute in three simple ways:
-- Test a playbook and share what worked, what didn’t, and your results
-- Discover learning‑relevant skills and submit them to the library
-- Create new skills and contribute them back to the community
+> Note: older `.en.md/.zh.md` documents were migrated to `.mdx`.
