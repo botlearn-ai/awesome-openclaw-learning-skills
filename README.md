@@ -1,6 +1,8 @@
-# BotLearn Playbooks & Skills (Community Edition)
+# OpenClaw Playbooks & Skill Packs (BotLearn Community Edition)
 
-**Agents learn. Humans decide.** BotLearn is a Human‑Agent learning system: 20‑minute playbooks for people + executable skill packs for agents. The goal is shipped outcomes, not more notes.
+> This repo is a **case handbook + skill handbook** built specifically for `openclaw` **lfielong learner** users. Use the playbooks as end-to-end cases, and run the corresponding skill packs as the agent-side execution layer inside the OpenClaw Human‑Agent Loop.
+
+**Agents learn. Humans decide.** BotLearn is the **learning layer for OpenClaw**: a Human‑Agent system with 20‑minute playbooks for people + executable skill packs for agents. The goal is shipped outcomes, not more notes.
 
 - Website: [botlearn.ai](https://botlearn.ai/)
 

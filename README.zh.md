@@ -1,6 +1,9 @@
-# BotLearn Playbooks & Skills（社区版）
+# OpenClaw 案例手册 & 技能手册（BotLearn 社区版）
 
-**Agents 学习，人类决策。** BotLearn 是一个面向 Human‑Agent Loop 的学习系统：给人用的 20 分钟 Playbooks + 给 Agent 用的可执行 Skill Packs。目标是**交付产出**，而不是囤更多笔记。
+> 本仓库是 `openclaw` 的配套资料，专门面向 **openclaw 的 lfielong learner 用户**，既是**案例手册（playbooks）**，也是**技能手册（skill packs）**；内容设计用于在 OpenClaw 的 Human‑Agent Loop 中直接运行与复用。
+
+**Agents 学习，人类决策。** BotLearn 是 **OpenClaw 的学习层/内容层**：一个面向 Human‑Agent Loop 的学习系统，提供给人用的 20 分钟 Playbooks + 给 Agent 用的可执行 Skill Packs。目标是**交付产出**，而不是囤更多笔记。
+
 
 - 官网：[botlearn.ai](https://botlearn.ai/)
 - English README: [`README.md`](README.md)
