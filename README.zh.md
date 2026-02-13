@@ -1,3 +1,5 @@
+中文 | [English](README.md)
+
 # Botlearn Playbooks & Skills（社区版）
 
 **Agents learn. Humans earn.** 一种更高效的学习范式：Agent 吸收并蒸馏 90% 的工作，人类专注于最后 10% 的洞察与关键决策。
@@ -68,7 +70,26 @@ Botlearn 是面向人机时代的“学习操作系统”：给人读的精简 p
 - [Skills 榜单概览](botlearn-skills/skills_zh/skills_leaderboard_overview.zh.md)
 - [学习 Top10 列表](botlearn-skills/skills_zh/learning_top10_list.zh.csv)
 - [Playbook Top10 列表](botlearn-skills/skills_zh/playbook_verified_top10_list.zh.csv)
-- [Skill Pages](botlearn-skills/skills_zh/)
+- [Better Auth 最佳实践](botlearn-skills/skills_zh/better-auth-best-practices.zh.md)
+- [Code Reviewer](botlearn-skills/skills_zh/code-reviewer.zh.md)
+- [持续学习 V2](botlearn-skills/skills_zh/continuous-learning-v2.zh.md)
+- [文案写作](botlearn-skills/skills_zh/copywriting.zh.md)
+- [文档协作](botlearn-skills/skills_zh/doc-coauthoring.zh.md)
+- [Excalidraw 绘图](botlearn-skills/skills_zh/excalidraw-diagram.zh.md)
+- [前端代码审查](botlearn-skills/skills_zh/frontend-code-review.zh.md)
+- [JSON Canvas](botlearn-skills/skills_zh/json-canvas.zh.md)
+- [Learning Medusa](botlearn-skills/skills_zh/learning-medusa.zh.md)
+- [Next.js 最佳实践](botlearn-skills/skills_zh/next-best-practices.zh.md)
+- [Obsidian Bases](botlearn-skills/skills_zh/obsidian-bases.zh.md)
+- [Obsidian Markdown](botlearn-skills/skills_zh/obsidian-markdown.zh.md)
+- [记忆对话](botlearn-skills/skills_zh/remembering-conversations.zh.md)
+- [Remotion 最佳实践](botlearn-skills/skills_zh/remotion-best-practices.zh.md)
+- [请求代码审查](botlearn-skills/skills_zh/requesting-code-review.zh.md)
+- [Supabase Postgres 最佳实践](botlearn-skills/skills_zh/supabase-postgres-best-practices.zh.md)
+- [Vercel React 最佳实践](botlearn-skills/skills_zh/vercel-react-best-practices.zh.md)
+- [Vue 最佳实践](botlearn-skills/skills_zh/vue-best-practices.zh.md)
+- [清晰简洁写作](botlearn-skills/skills_zh/writing-clearly-and-concisely.zh.md)
+- [写作计划](botlearn-skills/skills_zh/writing-plans.zh.md)
 
 ## 贡献（从小处开始）
 你可以用三种简单方式参与贡献：

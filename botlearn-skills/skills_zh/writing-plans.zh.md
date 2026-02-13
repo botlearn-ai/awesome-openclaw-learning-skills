@@ -1,34 +1,34 @@
 # writing plans
-Turn vague writing ideas into a clear, actionable writing plan.
+将模糊的写作想法转化为清晰、可执行的写作计划。
 
-- 状态: verified
-- 是否纳入 Playbook: yes
-- 来源: leaderboard
+- 状态: 已验证
+- 是否纳入 Playbook: 是
+- 来源: 排行榜
 - 链接: https://skills.sh/obra/superpowers/writing-plans
 - 热度（全量安装）: 5585
 - 标签: scenario:writing, category:planning, tool:general
-- Playbook: [Writing for Professional Impact](/playbooks/playbook_en/writing-for-impact)
+- Playbook: [专业影响力写作](/playbooks/playbook_zh/writing-for-impact)
 
 ## 功能说明
-Breaks a writing goal into a sequence of small, finishable steps.
+将写作目标分解为一系列可完成的小步骤。
 
 ## 适用人群
-Writers who struggle to start or finish content consistently.
+难以持续开始或完成写作内容的写作者。
 
 ## 与 Playbook 的结合方式
-Use it in the “Frame” step to clarify the goal and in “Outline” to organize the message.
+在"定义"步骤中使用它来明确目标，在"大纲"步骤中用它来组织内容。
 
 ## 使用场景
-You have a topic but can’t turn it into a clear outline.
+你有一个主题，但无法将其转化为清晰的大纲。
 
 ## 使用步骤
-1. State the topic and intended outcome.
-2. Ask for a 3–5 step writing plan.
-3. Follow the plan and refine the outline.
+1. 说明主题和预期成果。
+2. 请求一个 3-5 步的写作计划。
+3. 按照计划执行并优化大纲。
 
 ## 示例
-Input: Write a short guide on active recall.
-Output: Step‑by‑step outline with sections and key points.
+输入：写一篇关于主动回忆的简短指南。
+输出：包含各章节和关键要点的分步大纲。
 
 ## 验证方式
-You should end with a concrete outline you can follow immediately.
+你应该获得一份可以立即执行的具体大纲。

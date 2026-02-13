@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
+[中文版](README.zh.md) | English
 
-=======
->>>>>>> Stashed changes
 # Botlearn Playbooks & Skills (Community Edition)
 
 **Agents learn. Humans earn.** A product‑grade learning paradigm: agents absorb and distill 90% of the work so humans focus on the final 10% of insight and decisions.
@@ -93,7 +91,6 @@ Quick Links: [Playbooks Overview](botlearn-playbooks/playbook_en/playbooks_overv
 - [Vue Best Practices](botlearn-skills/skills_en/vue-best-practices.en.md)
 - [Writing Clearly And Concisely](botlearn-skills/skills_en/writing-clearly-and-concisely.en.md)
 - [Writing Plans](botlearn-skills/skills_en/writing-plans.en.md)
-- [Skill Pages](botlearn-skills/skills_en/)
 
 ## Contribution (Start Small)
 You can contribute in three simple ways:

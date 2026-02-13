@@ -1,35 +1,35 @@
 # copywriting
-Write clearer, higher‑converting text for learning and professional use.
+撰写更清晰、转化率更高的文案，用于学习和专业场景。
 
-- 状态: verified
-- 是否纳入 Playbook: yes
-- 来源: leaderboard
+- 状态: 已验证
+- 是否纳入 Playbook: 是
+- 来源: 排行榜
 - 链接: https://skills.sh/coreyhaines31/marketingskills/copywriting
 - 热度（全量安装）: 9542
 - 标签: scenario:writing, category:communication, tool:general
-- Playbook: [Writing for Professional Impact](/playbooks/playbook_en/writing-for-impact)
+- Playbook: [专业影响力写作](/playbooks/playbook_zh/writing-for-impact)
 
 ## 功能说明
-Refines drafts into clear, persuasive copy with stronger structure and CTA.
+将草稿优化为结构更强、行动号召更明确的清晰、有说服力的文案。
 
 ## 适用人群
-People who write for decisions, alignment, or persuasion.
+需要通过写作来推动决策、达成共识或说服他人的人。
 
 ## 与 Playbook 的结合方式
-Use it in the “Outline” step to tighten structure and in the “Finalize” step to sharpen tone and clarity.
+在"大纲"步骤中使用它来收紧结构，在"定稿"步骤中使用它来打磨语气和清晰度。
 
 ## 使用场景
-You need to persuade your team to adopt a new learning tool in one short message.
+你需要用一条简短的消息说服团队采用一个新的学习工具。
 
 ## 使用步骤
-1. Paste your rough draft or bullet points.
-2. State the audience and the decision you want.
-3. Ask for a tighter version with a clear call‑to‑action.
-4. Compare the output and keep the strongest phrases.
+1. 粘贴你的草稿或要点列表。
+2. 说明目标受众和你期望的决策。
+3. 请求一个更精炼的版本，附带明确的行动号召。
+4. 对比输出结果，保留最有力的表达。
 
 ## 示例
-Input: “We should use spaced repetition because it helps memory.”
-Output: “Adopting spaced repetition will cut review time and improve recall—let’s pilot it.”
+输入："我们应该使用间隔重复，因为它有助于记忆。"
+输出："采用间隔重复将缩短复习时间并提高记忆效果——让我们先试点推行。"
 
 ## 验证方式
-The final copy should be shorter, clearer, and state a specific decision or action.
+最终文案应该更短、更清晰，并明确说明具体的决策或行动。

@@ -1,34 +1,34 @@
 # learning medusa
-Build a learning system based on spaced repetition and reflection.
+构建基于间隔重复和反思的学习系统。
 
-- 状态: verified
-- 是否纳入 Playbook: yes
-- 来源: inventory
+- 状态: 已验证
+- 是否纳入 Playbook: 是
+- 来源: 技能库
 - 链接: https://skills.sh/medusajs/medusa-agent-skills/learning-medusa
 - 热度（全量安装）: N/A
 - 标签: scenario:learning, category:study-system, tool:general
-- Playbook: [Learning Science‑Driven Study System](/playbooks/playbook_en/learning-science-system)
+- Playbook: [基于学习科学的学习系统](/playbooks/playbook_zh/learning-science-system)
 
 ## 功能说明
-Generates routines for spaced repetition, retrieval, and review.
+生成间隔重复、检索练习和复习的学习计划。
 
 ## 适用人群
-Learners who want a science‑backed study system.
+希望采用科学方法学习的学习者。
 
 ## 与 Playbook 的结合方式
-Fits into the playbook routine as a supporting skill for the learning flow.
+作为学习流程中的辅助技能，融入 Playbook 的日常工作流中。
 
 ## 使用场景
-You want a weekly learning system with retrieval practice.
+你想建立一个包含检索练习的每周学习系统。
 
 ## 使用步骤
-1. State the subject and time horizon.
-2. Ask for a spaced‑repetition routine.
-3. Follow the routine and review weekly.
+1. 说明学习主题和时间范围。
+2. 请求间隔重复计划。
+3. 按照计划执行，每周复盘。
 
 ## 示例
-Input: Learn statistics in 4 weeks.
-Output: Weekly spaced‑repetition schedule.
+输入：4 周内学会统计学。
+输出：每周间隔重复时间表。
 
 ## 验证方式
-You should have a spaced‑repetition plan to follow.
+你应该获得一份可以遵循的间隔重复计划。

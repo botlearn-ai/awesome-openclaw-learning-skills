@@ -1,34 +1,34 @@
 # code reviewer
-Get automated feedback on code quality and risk.
+获取关于代码质量和风险的自动化反馈。
 
-- 状态: verified
-- 是否纳入 Playbook: yes
-- 来源: inventory
+- 状态: 已验证
+- 是否纳入 Playbook: 是
+- 来源: 技能库
 - 链接: https://skills.sh/google-gemini/gemini-cli/code-reviewer
 - 热度（全量安装）: 1497
 - 标签: scenario:code-review, category:review, tool:general
-- Playbook: [Career Learning Loop: Grow While You Work](/playbooks/playbook_en/career-learning-loop)
+- Playbook: [职业学习循环：边工作边成长](/playbooks/playbook_zh/career-learning-loop)
 
 ## 功能说明
-Flags potential issues, suggests improvements, and summarizes risks.
+标记潜在问题，提出改进建议，并总结风险点。
 
 ## 适用人群
-Engineers who want faster quality checks before PR review.
+希望在 PR 审查前快速完成质量检查的工程师。
 
 ## 与 Playbook 的结合方式
-Fits into the playbook routine as a supporting skill for the learning flow.
+作为学习流程中的辅助技能，融入 Playbook 的日常工作流中。
 
 ## 使用场景
-You want to catch risks before requesting a team review.
+你希望在请求团队审查前先发现潜在风险。
 
 ## 使用步骤
-1. Share the code or diff you want reviewed.
-2. Ask for risks, edge cases, and improvements.
-3. Apply the suggestions before PR review.
+1. 分享你要审查的代码或 diff。
+2. 询问风险、边界情况和改进建议。
+3. 在 PR 审查前应用这些建议。
 
 ## 示例
-Input: PR diff for auth middleware.
-Output: List of risks and suggested fixes.
+输入：认证中间件的 PR diff。
+输出：风险列表和修复建议。
 
 ## 验证方式
-You should get actionable fixes or risks to address.
+你应该获得可执行的修复建议或需要关注的风险点。

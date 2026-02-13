@@ -1,33 +1,33 @@
 # vercel react best practices
-Apply React best practices to build faster and more reliable interfaces.
+应用 React 最佳实践，构建更快、更可靠的界面。
 
-- 状态: verified
-- 是否纳入 Playbook: no
-- 来源: leaderboard
+- 状态: 已验证
+- 是否纳入 Playbook: 否
+- 来源: 排行榜
 - 链接: https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices
 - 热度（全量安装）: 104007
 - 标签: scenario:frontend, category:best-practices, tool:react
 
 ## 功能说明
-Provides a checklist of React patterns and anti‑patterns for cleaner component design.
+提供 React 模式和反模式的检查清单，帮助实现更简洁的组件设计。
 
 ## 适用人群
-Frontend learners and teams building React apps who want fewer bugs.
+构建 React 应用并希望减少 bug 的前端学习者和团队。
 
 ## 与 Playbook 的结合方式
-Not yet mapped to a specific playbook.
+尚未关联到具体的 Playbook。
 
 ## 使用场景
-You are rebuilding a UI and want to avoid common React mistakes.
+你正在重构 UI，希望避免常见的 React 错误。
 
 ## 使用步骤
-1. List the component or feature you are building.
-2. Ask for the 3–5 most important React patterns to follow.
-3. Apply the checklist while you code and revise where needed.
+1. 列出你正在构建的组件或功能。
+2. 请求 3-5 个最重要的 React 模式建议。
+3. 在编码过程中应用检查清单，并根据需要进行修改。
 
 ## 示例
-Input: Build a dashboard card component for KPIs.
-Output: Checklist of React patterns to keep components reusable and testable.
+输入：构建一个用于 KPI 展示的仪表盘卡片组件。
+输出：保持组件可复用和可测试的 React 模式检查清单。
 
 ## 验证方式
-You should get a short, actionable checklist and identify at least one fix you can apply.
+你应该获得一份简短、可执行的检查清单，并找到至少一个可以应用的改进点。

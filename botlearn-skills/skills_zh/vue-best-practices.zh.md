@@ -1,33 +1,33 @@
 # vue best practices
-Learn Vue patterns that scale and stay maintainable.
+学习可扩展且易维护的 Vue 模式。
 
-- 状态: verified
-- 是否纳入 Playbook: no
-- 来源: leaderboard
+- 状态: 已验证
+- 是否纳入 Playbook: 否
+- 来源: 排行榜
 - 链接: https://skills.sh/vuejs-ai/skills/vue-best-practices
 - 热度（全量安装）: 1450
 - 标签: scenario:frontend, category:best-practices, tool:vue
 
 ## 功能说明
-Shares Vue conventions for state, components, and project structure.
+分享 Vue 在状态管理、组件和项目结构方面的规范。
 
 ## 适用人群
-Vue learners who want consistent, scalable structure.
+希望保持一致、可扩展结构的 Vue 学习者。
 
 ## 与 Playbook 的结合方式
-Not yet mapped to a specific playbook.
+尚未关联到具体的 Playbook。
 
 ## 使用场景
-You are starting a Vue app and want to keep components consistent.
+你正在启动一个 Vue 应用，希望保持组件的一致性。
 
 ## 使用步骤
-1. Describe the Vue app structure you need.
-2. Ask for component and state management best practices.
-3. Apply the conventions while building.
+1. 描述你需要的 Vue 应用结构。
+2. 请求组件和状态管理最佳实践。
+3. 在构建过程中应用这些规范。
 
 ## 示例
-Input: Start a Vue learning dashboard.
-Output: Best practices for component layout and state.
+输入：启动一个 Vue 学习仪表盘。
+输出：组件布局和状态管理的最佳实践。
 
 ## 验证方式
-You should get conventions that make the codebase consistent.
+你应该获得能使代码库保持一致性的规范建议。
